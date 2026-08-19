@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "SomLalitSMP10B.aternos.me:17378",
+    "port": 17378,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
